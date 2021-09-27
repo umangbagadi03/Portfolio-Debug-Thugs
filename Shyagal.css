@@ -1,0 +1,45 @@
+html{
+	background-image:url(../bagr.jpg);
+}
+body{
+  padding: 25px;
+  
+}
+.title {
+background:brown;
+text-align:center;
+color:#fff;
+padding-right:20px 20px;
+font-size:60px;
+margin-bottom:0px;
+
+}
+
+p{
+text-align:center;
+margin:20px;
+font-size:28px;
+color:#BC986A;
+background:#8D8741;
+}
+
+.columns{
+display:flex
+}
+h2{
+
+font-size:25px;
+}
+
+
+.hero{
+font-size:20px;
+color:black;
+}
+ul{
+color:#76323F;
+}
+
+.col{
+color:#1E392A;
+}

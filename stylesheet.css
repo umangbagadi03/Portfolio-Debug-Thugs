@@ -1,0 +1,43 @@
+
+html{
+	background-color: brown;
+}
+header{
+	background-image: url(../portfolio.jpg);
+	height:100vh;
+	background-size:cover;
+	background-position:center;
+	
+}
+h1{
+  	background-color:brown;
+  	color:#fff;
+ 	padding: 1px;
+	text-align:center;
+	font-size:50px;
+
+}
+div{
+	font-size: 40px;
+	color: black;
+	text-align:left;
+}	
+.intro{
+	font-size:20px;
+	color: black;
+}
+.desc{
+	font-size:30px;
+ }
+.me{
+
+	font-size:30px;
+}
+a{
+	color:black;
+}
+a:hover{
+	color:brown;
+
+}
+
